@@ -1,0 +1,8 @@
+# Ignore .wav audio files
+*.wav
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore virtual environment folder
+venv/
