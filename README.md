@@ -3,6 +3,8 @@
 ## Files
 - SimpleClassification.ipynb
 - SpeechRecognitionClient.ipynb
+- SimpleAudioGenerationDIFFUSION.ipynb
+- SimpleAudioGenerationFLOW.ipynb
 - SimpleAudioGenerationGAN.ipynb
 - SimpleAudioGenerationVAE.ipynb
 - SimpleAudioEventDetection.ipynb
