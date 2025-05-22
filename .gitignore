@@ -6,3 +6,6 @@
 
 # Ignore virtual environment folder
 venv/
+
+# Ignore models folder
+models/
