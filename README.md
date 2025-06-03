@@ -1,4 +1,5 @@
 # Audio ML Basics 
+Simple starting templates for common audio tasks
 
 ## Files
 - SimpleClassification.ipynb
@@ -10,6 +11,7 @@
 - SimpleAudioGenerationGAN.ipynb
 - SimpleAudioGenerationVAE.ipynb
 - SimpleAudioInference.ipynb
+- SimpleSpeakerIdentification.ipynb
 - SimpleSpeechRecognition.ipynb
 - SpeechRecognitionClient.ipynb
 
