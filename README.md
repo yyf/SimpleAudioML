@@ -11,6 +11,7 @@ Simple starting templates for common audio tasks
 - SimpleAudioGenerationGAN.ipynb
 - SimpleAudioGenerationVAE.ipynb
 - SimpleAudioInference.ipynb
+- SimpleAudioSegmentation.ipynb
 - SimpleSpeakerIdentification.ipynb
 - SimpleSpeechRecognition.ipynb
 - SpeechRecognitionClient.ipynb
