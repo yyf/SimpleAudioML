@@ -9,3 +9,6 @@ venv/
 
 # Ignore models folder
 models/
+
+# Ignore temp directories
+notebooks/tmpdir/
